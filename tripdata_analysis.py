@@ -158,11 +158,6 @@ def data_analysis(df):
     plt.title('Average Ride Length by Type of Member (June 2023 - May 2024)')
     plt.show()
     
-
-def save(file, df):
-    for i in file:
-        i
-    df.to_csv(i, index=False)
  
     
 if __name__ == "__main__":
@@ -170,7 +165,6 @@ if __name__ == "__main__":
     data = data_extraction(excelFiles)
     df_data = data_cleaning(data)
     data_analysis(df_data)
-    #save(excelFiles, df)
     
     
 
