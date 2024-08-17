@@ -1,5 +1,5 @@
 # Project Description
-Conducted an in-depth analysis in Python of Cyclistic bike-share 12 month data, June 2023 - May 2024. Used Python libraries such as Pandas, NumPy, Matplotlib to surface insight on behavioral patterns and usage differences between members and casual riders. Provided actionable recommendations to convert casual riders into annual members based on the findings.
+Conducted an in-depth analysis in Python of Cyclistic bike-share 12 month data, June 2023 - May 2024. Used Python libraries such as Pandas, NumPy, Matplotlib to surface insight on behavioral patterns and usage differences between members and casual riders. Cleaned over 5 million rows by removing irrelevant columns and addressing data inconsistencies. Handled missing data using the KNeighborsClassifier machine learning model to predict and complete the dataset. Provided actionable recommendations to convert casual riders into annual members based on the findings.
 
 This notebook is 9 parts:
 - Introduction
