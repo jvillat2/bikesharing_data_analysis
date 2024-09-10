@@ -1,4 +1,6 @@
-# Project Description
+# Cyclistic Bike-Share Analysis and Recommendations
+
+## Project Description
 Conducted an in-depth analysis in Python of Cyclistic bike-share 12 month data, June 2023 - May 2024. Used Python libraries such as Pandas, NumPy, Matplotlib to surface insight on behavioral patterns and usage differences between members and casual riders. Cleaned over 5 million rows by removing irrelevant columns and addressing data inconsistencies. Handled missing data using the KNeighborsClassifier machine learning model to predict and complete the dataset. Provided actionable recommendations to convert casual riders into annual members based on the findings.
 
 This notebook is 9 parts:
@@ -12,7 +14,7 @@ This notebook is 9 parts:
 - Finding
 - Recommendations
 
-  # Summary of Insights
+## Summary of Insights
 Rider Distribution:
 * The data shows a significant difference between the number of casual riders and members, with members outnumbering casual riders by 1,643,974 riders.
   
@@ -30,7 +32,7 @@ Popular Start and End Stations:
 
 * Members, on the other hand, prefer starting station Clark St & Elm St followed by Clinton St & Washington Blvd, Wabash Ave & Grand Ave, Canal St & Adams St, and Dearborn St & Monroe St. For ending stations, Kingsbury St & Kinzie St is the most popular followed by Wilton Ave & Belmont Ave, Canal St & Adams St, LaSalle St & Illinois St, and Dearborn Pkwy & Delaware Pl.
 
-  # Recommendations 
+## Recommendations 
 To address the question of how to convert casual riders into annual members, I have made three recommendations. 
 * Targeted Membership Campaigns: Set up targeted membership ads during the months when casual riders are most active, specifically June, July, and August. Given that casual riders are particularly active on weekends, with peak activity on Saturdays, focus these ads on weekend days to maximize visibility and engagement. This strategy will capture the attention of casual riders during their highest activity periods and encourage them to sign up for annual memberships.
 * Strategic Station Marketing: Implementing membership advertisements at the top 3 most popular starting stations (Streeter Dr & Grand Ave, Dusable Lake Shore Dr & Monroe St, Millennium Park) and top 3 most popular ending stations (Streeter Dr & Grand Ave, Dusable Lake Shore Dr & Monroe St, Dusable Lake Shore Dr & North Blvd) could effectively encourage more casual riders to become members.
