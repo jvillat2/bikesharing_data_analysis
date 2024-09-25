@@ -11,6 +11,8 @@ Insights and recommendations are provided on the following key areas:
 * Weekly Ride Activity: An evaluation of ride counts by day of the week for each rider group.
 * Popular Start and End Stations: Identification of the top stations used by casual riders and members.
 
+  [click here to view the notebook](https://github.com/jvillat2/bikesharing_data_analysis/blob/main/cyclistic-analysis-and-recommendations.ipynb)
+
 ## Data Structure & Information
 Cyclistic’s dataset contains 5,743,278 rows and 13 columns, columns included in the dataset are as followed:
 * Ride_id: Unique identifier for each ride.
